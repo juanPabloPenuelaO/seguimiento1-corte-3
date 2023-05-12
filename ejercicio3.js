@@ -58,3 +58,4 @@ class Vehiculo {
       alert("Ingrese un número válido para los días de alquiler");
     }
   }
+  
